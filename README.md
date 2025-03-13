@@ -38,3 +38,6 @@ pip install numpy pandas matplotlib opencv-python tensorflow keras scikit-learn 
 | Vision Transformer | %92.37  | 0.92      | 0.92   | 0.9241   |
 | CNN         | %80.62         | 0.74      | -      | 0.8065   |
 
+# Data Seti yüksek boyutlu olduğu için yüklemedim. Aşağıda benzer bir DATA'a erişebilirsiniz.
+[LINK](https://drive.google.com/file/d/11ZQ0ILbzixNUMwUaNuIzaQgpH5neoHsa/view?usp=sharing)
+
